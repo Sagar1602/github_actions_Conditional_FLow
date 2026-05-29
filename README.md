@@ -1,3 +1,3 @@
-# github_actions_env_variables_and_secrets
+# github_actions_Conditional_flow
 This is the repo for practicing for conditional flow in the workflow
 
